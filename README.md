@@ -4,7 +4,7 @@ Use data to predict disease.
 ## Five Possible States
 ### The Worst
 No DNB.
-### Bad Cse
+### Bad Case
 Some DNBs, but fail to predict seious disease.
 ### Neutral Case
 Many DNBs, succeed in predicting certain disease but lack generalization ability. Many misjudgments.
