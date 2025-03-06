@@ -30,6 +30,7 @@ Use 70% Good Cases to avoid the problem of overfitting and the other 30% to vali
 ### Few Bad Cases
 Few data to train the model's prediction ability.
 ### Outer and Inner Disease
+Some diseases may occur far before we know. 
 Some diseases cannot be predicted by blood information.
 ### (Maybe) Too many DNBs
 This case is possible because body can refresh itself.
