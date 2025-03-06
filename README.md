@@ -8,6 +8,10 @@ Use data to predict disease.
 
 `Not all the columns in .csv all useful.`
 
+`id	透析日期	透析时间	收缩压	舒张压	脉率`
+
+`id	透析日期	剩余时间	治疗时间	血流量 ProcessedBloodVolume ReinfusionVolume 动脉压 静脉压 超滤率 超滤量 UFVolumebyHD/HDF UFVolumebySeq/HF TMP DialysateFlow DialysateTemperature BicarbonateConductivity HDF-UF/BloodFlowRatio HDFOnline-SubstitutionFlow HDFOnline-SubstitutionVolume Adimea-Kt/VsinglePool Adimea-URRSinglePool Adimea-Kt/VequiliBrated Adimea-URRequiliBrated time`
+
 ## 1. Five Possible States
 ### The Worst
 No DNB.
