@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/582ae051-441f-4713-ba20-8364ec127bb7)# Huashan-Hemodialysis
+# Huashan-Hemodialysis
 Use data to predict disease.
 
 ## `Notification`
