@@ -1,4 +1,4 @@
-# Huashan-Hemodialysis
+![image](https://github.com/user-attachments/assets/582ae051-441f-4713-ba20-8364ec127bb7)# Huashan-Hemodialysis
 Use data to predict disease.
 
 ## `Notification`
@@ -30,7 +30,24 @@ Use 70% Good Cases to avoid the problem of overfitting and the other 30% to vali
 ### Few Bad Cases
 Few data to train the model's prediction ability.
 ### Outer and Inner Disease
-Some diseases may occur far before we know. 
+Some diseases may occur far before we know.
+
+`15	678 -	2023/8/29	低血压事件	2023/7/29`
+
+`25	544 -	2024/8/31	冠心病	2024/4/11`
+
 Some diseases cannot be predicted by blood information.
+
+`39	468 -	2024/9/17	骨盆骨折	2024/9/1`
+
+### The Most Important Disease
+Low Blood Pressure Incident.
+
+Disease that can be inferred by blood quality.
+
+`12	329 -	2024/4/16	肺部感染	2024/4/13`
+
+`33	520 -	2024/10/10	内瘘失功	2023/10/5`
+
 ### (Maybe) Too many DNBs
 This case is possible because body can refresh itself.
